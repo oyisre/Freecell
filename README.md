@@ -1,10 +1,10 @@
 # Freecell
 
-##### About
+#### About
 
 Made as a final project in pairs for a grade 12 programming course.
 
-##### Playing
+#### Playing
 
 1. Get [Ready to Program 1.7.1](http://compsci.ca/holtsoft/)
 2. Clone the repo
